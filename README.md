@@ -27,16 +27,15 @@ It enhances those captions with grammar correction, translates them to other lan
 
 Install all dependencies with:
 
-```bash
 pip install -r requirements.txt
-📁 Files
+##📁 Files
 image_captioning_blip1.ipynb — Main notebook
 
 requirements.txt — Python dependencies
 
 README.md — Project overview
 
-▶️ How to Run
+##▶️ How to Run
 Run the notebook in Google Colab OR
 
 Clone repo and run locally with jupyter notebook
